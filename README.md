@@ -20,6 +20,10 @@ Therefore, knowledge sharing is important to reinforce understanding and plug in
 - [Docker mastery](docker-mastery)
 - [Kubernetes mastery: Hands on lessons from a docker captain](kubernetes-mastery)
 
+## Event streaming/messaging
+
+- [Apache kafka for absolute beginners](apache-kafka-for-absolute-beginners)
+
 # Feedback
 
 Please leave [feedback](https://github.com/hanchiang/software-engineering-learnings/issues) on how this can be structured better to facilitate discussion and knowledge sharing
