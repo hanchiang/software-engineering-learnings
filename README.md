@@ -15,6 +15,10 @@ Therefore, knowledge sharing is important to reinforce understanding and plug in
 
 - [Ultimate AWS certified solutions architect](ultimate-aws-certified-solutions-architect)
 
+## Devops
+
+- [Kubernetes mastery: Hands on lessons from a docker captain](kubernetes-mastery)
+
 # Feedback
 
 Please leave feedback on how this can be structured better to facilitate discussion and knowledge sharing
