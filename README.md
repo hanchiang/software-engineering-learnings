@@ -7,7 +7,13 @@ Therefore, knowledge sharing is important to reinforce understanding and plug in
 
 # Table of content
 
+## Software design
+
 - [Designing data intensive applications](designing-data-intensive-applications)
+
+## Cloud computing
+
+- [Ultimate AWS certified solutions architect](ultimate-aws-certified-solutions-architect)
 
 # Feedback
 
