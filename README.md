@@ -17,8 +17,9 @@ Therefore, knowledge sharing is important to reinforce understanding and plug in
 
 ## Devops
 
+- [Docker mastery](docker-mastery)
 - [Kubernetes mastery: Hands on lessons from a docker captain](kubernetes-mastery)
 
 # Feedback
 
-Please leave feedback on how this can be structured better to facilitate discussion and knowledge sharing
+Please leave [feedback](https://github.com/hanchiang/software-engineering-learnings/issues) on how this can be structured better to facilitate discussion and knowledge sharing
