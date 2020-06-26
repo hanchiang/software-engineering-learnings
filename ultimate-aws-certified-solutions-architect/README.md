@@ -10,7 +10,7 @@ Although this course is geared towards the AWS solutions architect certification
 
 # Link to resource
 
-<a href="https://docs.google.com/document/d/1KOOeiMIjx_zzzS39tfTn-Bk7ULof8UIG9DmLeBpomOQ/edit?usp=sharing" target="_blank">Get it here</a>
+[Get it here](https://docs.google.com/document/d/1KOOeiMIjx_zzzS39tfTn-Bk7ULof8UIG9DmLeBpomOQ/edit?usp=sharing)
 
 # Reference
 
