@@ -24,6 +24,10 @@ Therefore, knowledge sharing is important to reinforce understanding and plug in
 
 - [Apache kafka for absolute beginners](apache-kafka-for-absolute-beginners)
 
+## Programming langauges
+
+- [Go](go)
+
 ## Database
 
 - [The Complete SQL Bootcamp 2020: Go from Zero to Hero](the-complete-sql-bootcamp)
