@@ -24,10 +24,11 @@ Therefore, knowledge sharing is important to reinforce understanding and plug in
 
 - [Apache kafka for absolute beginners](apache-kafka-for-absolute-beginners)
 
-## Programming langauges
+## Programming
 
 - [Go](go)
 - [Node.js][nodejs]
+- [React][react]
 
 ## Database
 
