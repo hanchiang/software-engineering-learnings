@@ -27,8 +27,8 @@ Therefore, knowledge sharing is important to reinforce understanding and plug in
 ## Programming
 
 - [Go](go)
-- [Node.js][nodejs]
-- [React][react]
+- [Node.js](nodejs)
+- [React](react)
 
 ## Database
 
