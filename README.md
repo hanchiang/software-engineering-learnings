@@ -27,6 +27,7 @@ Therefore, knowledge sharing is important to reinforce understanding and plug in
 ## Programming langauges
 
 - [Go](go)
+- [Node.js][nodejs]
 
 ## Database
 
