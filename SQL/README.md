@@ -1,0 +1,1 @@
+[Practical Sql: A Beginner's Guide to Storytelling with Data](https://www.amazon.sg/Practical-Sql-Beginners-Guide-Storytelling/dp/1593278276)
