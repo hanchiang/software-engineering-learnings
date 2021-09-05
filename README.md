@@ -30,6 +30,7 @@ Therefore, knowledge sharing is important to reinforce understanding and plug in
 - [Node.js](nodejs)
 - [React](react)
 - [Java](java)
+- [Rust](rust)
 
 ## Database
 
