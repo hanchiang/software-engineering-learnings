@@ -1,40 +1,40 @@
 # Introduction
 
-This repository titled "Software engineering learnings" is to document and share my learnings in software engineering.
-
-This field is enormous and one couldn't realistically hope to master it all one day.  
-Therefore, knowledge sharing is important to reinforce understanding and plug in certain gaps
+This repository documents some of the resources I used to learn various concepts in software engineering.
 
 # Table of content
 
 ## Software design
+- [Software design](software-design)
 
-- [Designing data intensive applications](designing-data-intensive-applications)
+## Distributed systems
+
+- [Designing data intensive applications](distributed-systems/designing-data-intensive-applications)
 
 ## Cloud computing
 
-- [Ultimate AWS certified solutions architect](ultimate-aws-certified-solutions-architect)
+- [Ultimate AWS certified solutions architect](cloud/ultimate-aws-certified-solutions-architect)
 
 ## Devops
 
-- [Docker mastery](docker-mastery)
-- [Kubernetes mastery: Hands on lessons from a docker captain](kubernetes-mastery)
+- [Docker mastery](devops/docker-mastery)
+- [Kubernetes mastery: Hands on lessons from a docker captain](devops/kubernetes-mastery)
 
-## Event streaming/messaging
+## Event streaming/message queue
 
 - [Apache kafka for absolute beginners](apache-kafka-for-absolute-beginners)
 
 ## Programming
 
-- [Go](go)
-- [Node.js](nodejs)
-- [React](react)
-- [Java](java)
-- [Rust](rust)
+- [Go](programming/go)
+- [Node.js](programming/nodejs)
+- [React](programming/react)
+- [Java](programming/java)
+- [Rust](programming/rust)
 
 ## Database
 
-- [The Complete SQL Bootcamp 2020: Go from Zero to Hero](the-complete-sql-bootcamp)
+- [SQL](database/SQL)
 
 # Feedback
 
